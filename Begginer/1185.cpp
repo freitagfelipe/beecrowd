@@ -2,7 +2,7 @@
 #include <iomanip>
 
 int main(){
-    float M[12][12], num, answer;
+    double M[12][12], num, answer = 0;
     char operation;
 
     std::cin >> operation;

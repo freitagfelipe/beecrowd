@@ -3,7 +3,7 @@
 
 int main(){
     char operation;
-    float M[12][12], answer, num;
+    double M[12][12], answer = 0, num;
 
     std::cin >> operation;
 
