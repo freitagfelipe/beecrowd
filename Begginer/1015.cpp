@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <cmath>
 
-int main(){
+int main() {
     double X1, Y1, X2, Y2;
 
     std::cin >> X1 >> Y1 >> X2 >> Y2;

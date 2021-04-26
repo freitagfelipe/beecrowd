@@ -1,11 +1,11 @@
 #include <iostream>
 
-int main(){
+int main() {
     int a, n, resp = 0;
 
     std::cin >> a;
 
-    while(1){
+    while(1) {
         std::cin >> n;
         
         if(n > 0)

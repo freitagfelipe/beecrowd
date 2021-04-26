@@ -1,11 +1,11 @@
 #include <iostream>
 
-int main(){
+int main() {
     double A, C;
 
-    for(int i = 0; i < 6; i++){
+    for(int i = 0; i < 6; i++) {
         std::cin >> A;
-        (A > 0) ? C++ : C+=0;
+        (A > 0) ? C++ : C += 0;
     }
 
     std::cout << C << " valores positivos" << std::endl;

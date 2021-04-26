@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 
-int main(){
+int main() {
     int X;
     double Y;
 

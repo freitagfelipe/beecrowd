@@ -1,12 +1,13 @@
 #include <iostream>
 
-int main(){
+int main() {
     int d[2], t[6], tt;
     std::string l;
 
-    for(int i = 0; i < 2; i++){
+    for(int i = 0; i < 2; i++) {
         std::cin >> l >> d[i];
-        for(int y = 3 * i; y < 3 + (3 * i); y++){
+        
+        for(int y = 3 * i; y < 3 + (3 * i); y++) {
             if(y == 2 || y == 5)
                 std::cin >> t[y];
             else

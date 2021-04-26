@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main(){
+int main() {
     int N, X;
 
     std::cin >> N;

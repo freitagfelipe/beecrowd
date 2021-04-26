@@ -1,10 +1,10 @@
 #include <iostream>
 
-int main(){
+int main() {
     int DDD;
     
     std::cin >> DDD;
-    switch(DDD){
+    switch(DDD) {
         case 61: 
             std::cout << "Brasilia" << std::endl;
             break;

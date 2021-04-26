@@ -1,13 +1,13 @@
 #include <iostream>
 #include <iomanip>
 
-int main(){
+int main() {
     double X, M;
 
-    for(int i = 0; i < 2; i+=0){
+    for(int i = 0; i < 2; i += 0) {
         std::cin >> X;
 
-        (X >= 0 && X <= 10) ? M+=X, i++ : i+=0;
+        (X >= 0 && X <= 10) ? M += X, i++ : i += 0;
         
         if(X < 0 || X > 10)
             std::cout << "nota invalida" << std::endl;

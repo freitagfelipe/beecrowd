@@ -1,9 +1,9 @@
 #include <iostream>
 
-int main(){
+int main() {
     int X, N[20];
 
-    for(int i = 19; i >= 0; i--){
+    for(int i = 19; i >= 0; i--) {
         std::cin >> X;
         N[i] = X;
     }

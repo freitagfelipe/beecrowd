@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 
-int main(){
+int main() {
     double N1, N2, N3, N4, EXAME, MEDIA, MEDIA2;
 
     std::cin >> N1 >> N2 >> N3 >> N4;
@@ -12,7 +12,7 @@ int main(){
         std::cout << "Aluno aprovado." << std::endl;
     else if(MEDIA < 5)
         std::cout << "Aluno reprovado." << std::endl;
-    else{
+    else {
         std::cout << "Aluno em exame." << std::endl;
         std::cin >> EXAME;
         std::cout << "Nota do exame: " << EXAME << std::endl;
@@ -22,6 +22,7 @@ int main(){
             std::cout << "Aluno aprovado." << std::endl;
         else 
             std::cout << "Aluno reprovado." << std::endl;
+        
         std::cout << std::fixed << std::setprecision(1) << "Media final: " << MEDIA2 << std::endl;
     }
 

@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 
-int main(){
+int main() {
     double s = 1;
 
     for(double i = 2; i <= 100; i++)

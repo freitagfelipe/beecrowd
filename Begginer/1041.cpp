@@ -1,9 +1,10 @@
 #include <iostream>
 
-int main(){
+int main() {
     double X, Y;
 
     std::cin >> X >> Y;
+    
     if(X == 0 && Y == 0)
         std::cout << "Origem" << std::endl;
     else if(Y == 0 && X != 0)

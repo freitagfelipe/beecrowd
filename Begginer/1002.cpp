@@ -2,7 +2,7 @@
 #include <cmath>
 #include <iomanip>
 
-int main(){
+int main() {
     double raio;
 
     std::cin >> raio;

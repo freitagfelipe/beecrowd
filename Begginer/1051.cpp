@@ -1,14 +1,14 @@
 #include <iostream>
 #include <iomanip>
 
-int main(){
+int main() {
     double x, y, z, resp;
 
     std::cin >> x;
 
     if(x >= 0 && x <= 2000)
         std::cout << "Isento" << std::endl;
-    else{
+    else {
         if(x >= 2000.01 && x <= 3000)
             resp = (x - 2000) * 0.08;
         else if(x >= 3000.01 && x <= 4500)

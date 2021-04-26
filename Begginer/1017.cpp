@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 
-int main(){
+int main() {
     int T, VM;
 
     std::cin >> T >> VM;

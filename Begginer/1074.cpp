@@ -1,12 +1,12 @@
 #include <iostream>
 
-int main(){
+int main() {
     int N;
     long int X;
 
     std::cin >> N;
 
-    for(int i = 0; i < N; i++){
+    for(int i = 0; i < N; i++) {
         std::cin >> X;
         
         if(X == 0)

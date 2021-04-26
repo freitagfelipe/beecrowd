@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main(){
+int main() {
     int S;
 
     while(std::cin >> S && S != 2002)

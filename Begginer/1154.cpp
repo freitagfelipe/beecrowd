@@ -1,11 +1,11 @@
 #include <iostream>
 #include <iomanip>
 
-int main(){
+int main() {
     int I, M = 0, D = 0;
 
-    while(std::cin >> I && I >= 0){
-        M+=I; 
+    while(std::cin >> I && I >= 0) { 
+        M += I; 
         D++;
     }
 

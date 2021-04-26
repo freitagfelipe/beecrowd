@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main(){
+int main() {
     int hi, hf, mi, mf, hr, mr;
 
     std::cin >> hi >> mi >> hf >> mf;

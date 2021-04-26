@@ -1,9 +1,9 @@
 #include <iostream>
 
-int main(){
+int main() {
     int N, A = 0, G = 0, D = 0;
 
-    while(std::cin >> N && N != 4){
+    while(std::cin >> N && N != 4) {
         switch (N) {
             case 1:
                 A++;

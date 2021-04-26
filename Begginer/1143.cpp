@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 
-int main(){
+int main() {
     int L;
 
     std::cin >> L;

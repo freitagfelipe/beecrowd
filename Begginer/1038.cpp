@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 
-int main(){
+int main() {
     int C, Q; 
     double I[5] = {4, 4.5, 5, 2, 1.5};
 
