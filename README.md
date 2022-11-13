@@ -1,3 +1,3 @@
-# URI Online Judge
+# Beecrowd
 
-- This is my repository for URI Online Judge. Here you will find my solutions for many problems. I hope that if you have any doubts, you can take them out here.
+- This is my repository for Beecrowd. Here you will find my solutions for many problems. I hope that if you have any doubts, you can take them out here.
